@@ -1,1 +1,1 @@
-# PteroDACTyl-Predicting-Disagreement-About-Comment-Toxicity
+# PteroDACTyl: Predicting Disagreement about Comment Toxicity
